@@ -7,7 +7,7 @@ from pathlib import Path
 import socket, struct
 
 # === ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ ===
-BOT_TOKEN = "8783402037:AAF1L0A_UP12EUOgn5x2g7UMFntHy3QjDfk"
+BOT_TOKEN = "8651786681:AAHMm7m2ynMwFiHXdJWYgYZ5qd56IVROHAg"
 CHAT_ID = "8327334745"
 CACHE_DIR = os.path.join(os.path.dirname(__file__), ".cache")
 os.makedirs(CACHE_DIR, exist_ok=True)
